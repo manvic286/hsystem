@@ -44,8 +44,8 @@ Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan07
     
 ### SOFTWARES USED
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
-  - Sublime Text 3.2 was used as a text editor.
-  - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
+  - VS Code was used as a text editor.
+  - Microsoft Edge was used to run the project (localhost/myhmsp was used as the url).
   
 
 ### Starting Apache And MySQL in XAMPP:
